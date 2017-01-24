@@ -1,0 +1,2 @@
+# bandenbot
+Helperbot for Mafiagangsbot
