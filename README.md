@@ -3,7 +3,7 @@
 a little inline-helper-bot for [@mafiagangsbot](http://telegram.me/mafiagangsbot) - for the clever mafia dons. 🔫😎💰
 
 ## ToDo:
-- [✔] Add Database
+- [x] Add Database
 - [ ] Add renting Mercenaries
 - [ ] Add buying Estates
     - [ ] Get current Stock values
