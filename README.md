@@ -10,4 +10,4 @@ a little inline-helper-bot for [@mafiagangsbot](http://telegram.me/mafiagangsbot
     - [ ] Get the gained Income
 - [ ] Humanized Numbers
 
-message me when there are any questions or issues [@lftkv](http://telegram.me/lftkv)
+Message me when there are any questions or issues [@lftkv](http://telegram.me/lftkv)
