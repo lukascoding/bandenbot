@@ -13,6 +13,7 @@ namespace bandenbot.Jobs
             JobManager.JobStart += JobManager_JobStart;
             JobManager.JobEnd += JobManager_JobEnd;
             JobManager.JobException += JobManager_JobException;
+
         }
 
         private void JobManager_JobException(JobExceptionInfo obj)
