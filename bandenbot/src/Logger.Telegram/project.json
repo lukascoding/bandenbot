@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "NETStandard.Library": "1.6.1",
+    "NLog": "5.0.0-beta05",
+    "NLog.Config": "4.4.2-rc1",
+    "NLog.Extensions.Logging": "1.0.0-rtm-beta1",
+    "Telegram.Bot": "11.1.0-beta-3"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
