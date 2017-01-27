@@ -5,11 +5,15 @@
   },
 
   "dependencies": {
+    "FluentScheduler": "5.1.3",
+    "Logger.Telegram": "1.0.0-*",
+    //"Autoupdater.NET.Official": "1.3.2",
     //"EntityFramework": "6.1.3",
     //"Humanizer": "2.1.0",
     //"BotanIO.Net": "1.0.1",
     "Microsoft.NETCore.App": "1.1.0",
     "NetTelegramBotApi": "4.0.0",
+    //"NLog.Extensions.Logging": "1.0.0-*",
     //"NLog.Telegram": "1.1.2",
     "Telegram.Bot": "11.1.0-beta-3"
   },
@@ -18,5 +22,11 @@
     "netcoreapp1.0": {
       "imports": "dnxcore50"
     }
+  },
+  "publishOptions": {
+    "include": [
+      "nlog.config",
+      "config.json"
+    ]
   }
 }
